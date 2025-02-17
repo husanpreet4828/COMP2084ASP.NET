@@ -435,3 +435,4 @@ C:\Users\2005h\OneDrive\Desktop\asp.net\GITHUB\COMP2084ASP.NET\lab02\LabWebApp\b
 C:\Users\2005h\OneDrive\Desktop\asp.net\GITHUB\COMP2084ASP.NET\lab02\LabWebApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\2005h\OneDrive\Desktop\asp.net\GITHUB\COMP2084ASP.NET\lab02\LabWebApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\2005h\OneDrive\Desktop\asp.net\GITHUB\COMP2084ASP.NET\lab02\LabWebApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\2005h\OneDrive\Desktop\asp.net\GITHUB\COMP2084ASP.NET\lab02\LabWebApp\obj\Debug\net9.0\LabWebApp.sourcelink.json
